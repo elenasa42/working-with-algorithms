@@ -1,2 +1,5 @@
 # working-with-algorithms
-Minimum jumps to reach end
+##Dynamic programming
+Problem: Minimum jumps to reach end
+
+
